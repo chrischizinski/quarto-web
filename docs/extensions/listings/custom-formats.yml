@@ -125,6 +125,14 @@
   description: >
     A clean & opinionated Typst (PDF) format with improved support for Typst functionality beyond Quarto's standard template.
 
+- name: sciposter
+  path: https://github.com/chrischizinski/quarto-sciposter
+  author: '[Christopher Chizinski](https://github.com/chrischizinski)'
+  description: >
+    Scientific conference posters rendered to print-ready PDF via Typst, with
+    configurable multi-column layouts, A0/A1/custom paper sizes, theming, and
+    QR codes.
+
 - name: shifu-academic-quarto
   path: https://github.com/C-Monaghan/shifu-academic-quarto
   author: '[Cormac Monaghan](https://github.com/C-Monaghan)'
